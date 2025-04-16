@@ -1,4 +1,4 @@
-# SCT_SD_TASK2
+# SCT_SD_TASK3
 a program that solves Sudoku puzzles automatically.
 Sudoku_Solver_Python
 Description
